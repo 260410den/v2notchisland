@@ -1,0 +1,8 @@
+Pulau — Notch companion untuk Windows
+
+Cara menjalankan:
+1. Ekstrak semua isi ZIP ke folder tetap, misalnya Documents\Pulau.
+2. Klik dua kali Pulau.exe. Tidak perlu membuka PowerShell.
+3. Untuk mengubah startup, klik kanan ikon Pulau di system tray.
+
+Catatan: aplikasi memerlukan .NET 8 Desktop Runtime x64. Jangan pindahkan folder setelah startup diaktifkan; jalankan Pulau.exe dari lokasi baru untuk memperbarui jalur startup.
